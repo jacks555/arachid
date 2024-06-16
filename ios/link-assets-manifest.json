@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/IRANYekanWeb-Black.ttf",
+      "sha1": "7f7b54a995bf6d64166a0bd95f6473897b70aff4"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanWeb-Bold.ttf",
+      "sha1": "1b83e2e2af335c6549aed0d00222a2b719d622a5"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanWeb-ExtraBlack.ttf",
+      "sha1": "82e833f8b7663f12730095b34d79bc79f4e96ab1"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanWeb-ExtraBold.ttf",
+      "sha1": "51ad60c74503e2e33b98b5ec8f6ce84dc93c3de0"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanWeb-Light.ttf",
+      "sha1": "97cb1f3020e121c460a6b0b13d166dea5620f6bf"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanWeb-Medium.ttf",
+      "sha1": "dcc443d596c75744f44edc179e6bb834ff6a77f0"
+    },
+    {
+      "path": "src/assets/fonts/IRANYekanWeb.ttf",
+      "sha1": "23c62c40d19ca05d7b8d9144ffa146a672eaea98"
+    }
+  ]
+}
